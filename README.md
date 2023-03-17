@@ -19,8 +19,7 @@ In this challenge, you are required to create a React component that fetches dat
 ### Please follow these steps:
 
 1. Create a functional component named UsersList.
-2. Implement the useEffect hook in the UsersList component to fetch user data from the following API: https://jsonplaceholder.typicode.com/users
+2. Implement the useEffect hook in the UsersList component to fetch user data from the following API: `https://jsonplaceholder.typicode.com/users`
 3. Store the fetched data in a state variable called users.
 4. Display a loading message while the data is being fetched.
 5. Render the list of users in a simple unordered list with each user's name and email.
-
